@@ -1,0 +1,20 @@
+.gif-creator{
+    margin: 20px auto;
+    width: 450px;
+}
+
+.gif-creator label{
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+
+.gif-creator input{
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#gif{
+    width: 100%;
+}
